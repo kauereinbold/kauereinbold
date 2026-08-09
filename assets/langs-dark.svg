@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="172" viewBox="0 0 440 172" role="img" aria-label="Most used languages">
+<rect x="0.5" y="0.5" width="439" height="171" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="24" y="32" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="16" font-weight="600">Most used languages</text>
+<clipPath id="barclip"><rect x="24" y="52" width="392" height="16" rx="8"/></clipPath>
+<g clip-path="url(#barclip)"><rect x="24.0" y="52" width="223.4" height="16" fill="#178600"/><rect x="247.4" y="52" width="87.9" height="16" fill="#3178c6"/><rect x="335.3" y="52" width="33.0" height="16" fill="#563d7c"/><rect x="368.3" y="52" width="24.7" height="16" fill="#f1e05a"/><rect x="393.0" y="52" width="15.8" height="16" fill="#e34c26"/><rect x="408.9" y="52" width="7.1" height="16" fill="#89e051"/></g>
+<circle cx="29" cy="84" r="5" fill="#178600"/>
+<text x="40" y="88" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="12.5">C# 57.0%</text>
+<circle cx="241" cy="84" r="5" fill="#3178c6"/>
+<text x="252" y="88" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="12.5">TypeScript 22.4%</text>
+<circle cx="29" cy="110" r="5" fill="#563d7c"/>
+<text x="40" y="114" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="12.5">CSS 8.4%</text>
+<circle cx="241" cy="110" r="5" fill="#f1e05a"/>
+<text x="252" y="114" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="12.5">JavaScript 6.3%</text>
+<circle cx="29" cy="136" r="5" fill="#e34c26"/>
+<text x="40" y="140" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="12.5">HTML 4.0%</text>
+<circle cx="241" cy="136" r="5" fill="#89e051"/>
+<text x="252" y="140" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="12.5">Shell 1.8%</text>
+</svg>
