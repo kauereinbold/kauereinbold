@@ -16,6 +16,7 @@ systems design, code review, mentoring, and practical AI across the SDLC.
 
 ## Recent open-source
 <!-- OSS:START -->
+- [`orcasound/orcahello`](https://github.com/orcasound/orcahello/pull/586): fix: keep spectrogram shades aligned by drawing them once over the image (2026-08-10)
 - [`orcasound/orcahello`](https://github.com/orcasound/orcahello/pull/569): Fix invisible spectrogram region shades and silent audio load failures (2026-08-01)
 - [`orcasound/orcahello`](https://github.com/orcasound/orcahello/pull/559): Fix Details links opened in a new tab showing the candidates page (2026-07-31)
 <!-- OSS:END -->
