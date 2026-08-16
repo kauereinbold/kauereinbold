@@ -14,7 +14,7 @@ systems design, code review, mentoring, and practical AI across the SDLC.
 - [[Docker] Use profiles on docker-compose](https://medium.com/@kauereinbold/docker-use-profiles-in-docker-compose-f5739e1288dc)
 <!-- BLOG:END -->
 
-## Recent open-source
+## Recent contributions
 <!-- OSS:START -->
 - [`orcasound/orcahello`](https://github.com/orcasound/orcahello/pull/594): feat: start card spectrogram playback at the touched point before Play is pressed (2026-08-13)
 - [`orcasound/orcahello`](https://github.com/orcasound/orcahello/pull/559): Fix Details links opened in a new tab showing the candidates page (2026-07-31)

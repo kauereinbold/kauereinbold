@@ -68,7 +68,7 @@ def fetch_blog(n=3):
     return "\n".join(lines)
 
 
-def fetch_oss(n=3):
+def fetch_oss(n=5):
     if not TOKEN:
         return "_Set GH_TOKEN to populate._"
     try:
