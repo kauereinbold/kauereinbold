@@ -2,7 +2,7 @@ name: Refresh profile README
 
 on:
   schedule:
-    - cron: "0 3 * * *" # daily at 03:00 UTC
+    - cron: "0 * * * *" # hourly
   workflow_dispatch:
   push:
     branches: [main]
