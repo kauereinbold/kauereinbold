@@ -16,11 +16,11 @@ systems design, code review, mentoring, and practical AI across the SDLC.
 
 ## Recent contributions
 <!-- OSS:START -->
+- [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/52): Copilot review follow-ups: pagination precedence, failed-fetch state, moderator names (2026-09-18)
+- [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/51): Affinitize region colors with models, show every comment on a moderated minute (2026-09-18)
 - [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/50): Restore the bare-request page size, delete the unreferenced DetectionComponent (2026-09-18)
 - [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/49): Review fixes: minute paging on the root GET, scroll targeting, detail-page group selection (2026-09-18)
 - [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/48): Per-model region colors on minute spectrograms (2026-09-18)
-- [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/47): Client fixes for minute moderation: minute paging, single toast, verdict prefill (2026-09-18)
-- [`orcasound/orcahello`](https://github.com/orcasound/orcahello/pull/623): Phone moderating: keep the spectrogram in view, open the next candidate at its top, and tidy the card details (2026-09-02)
 <!-- OSS:END -->
 
 ## Elsewhere
