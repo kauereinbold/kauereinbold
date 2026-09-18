@@ -16,11 +16,11 @@ systems design, code review, mentoring, and practical AI across the SDLC.
 
 ## Recent contributions
 <!-- OSS:START -->
+- [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/50): Restore the bare-request page size, delete the unreferenced DetectionComponent (2026-09-18)
+- [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/49): Review fixes: minute paging on the root GET, scroll targeting, detail-page group selection (2026-09-18)
 - [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/48): Per-model region colors on minute spectrograms (2026-09-18)
 - [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/47): Client fixes for minute moderation: minute paging, single toast, verdict prefill (2026-09-18)
 - [`orcasound/orcahello`](https://github.com/orcasound/orcahello/pull/623): Phone moderating: keep the spectrogram in view, open the next candidate at its top, and tidy the card details (2026-09-02)
-- [`orcasound/orcasite`](https://github.com/orcasound/orcasite/pull/1021): fix: update server deps past published advisories (2026-08-16)
-- [`orcasound/orcahello`](https://github.com/orcasound/orcahello/pull/599): Keep the moderator portal working when the detections API is unreachable (2026-08-16)
 <!-- OSS:END -->
 
 ## Elsewhere
