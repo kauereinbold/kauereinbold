@@ -16,11 +16,11 @@ systems design, code review, mentoring, and practical AI across the SDLC.
 
 ## Recent contributions
 <!-- OSS:START -->
+- [`orcasound/orcasite`](https://github.com/orcasound/orcasite/pull/1033): fix(ui): paginate the bouts list, newest first (2026-09-21)
 - [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/52): Copilot review follow-ups: pagination precedence, failed-fetch state, moderator names (2026-09-18)
 - [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/51): Affinitize region colors with models, show every comment on a moderated minute (2026-09-18)
 - [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/50): Restore the bare-request page size, delete the unreferenced DetectionComponent (2026-09-18)
 - [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/49): Review fixes: minute paging on the root GET, scroll targeting, detail-page group selection (2026-09-18)
-- [`dthaler/aifororcas-livesystem`](https://github.com/dthaler/aifororcas-livesystem/pull/48): Per-model region colors on minute spectrograms (2026-09-18)
 <!-- OSS:END -->
 
 ## Elsewhere
